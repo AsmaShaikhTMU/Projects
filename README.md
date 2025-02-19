@@ -20,7 +20,11 @@ The dataset (#2) is a collection of health indicators and demographics data from
 TOOLS &TECHNIQUES
 
 The purpose is to build a predictive model for diabetes classification. Different Predictive modeling techniques like logistic regression, k-nearest neighbor regression, decision tree classifier will be created to assess each model accurate prediction of diabetes. Python will be used for performing the modeling and analysis. RStudio can be used. Tableau or Power Bi for visualization and presentation of final recommendation.  
+
 Reference list:
+
 1 International Diabetes Federation. (n.d.). Diabetes facts & figures. Retrieved January 27, 2025, from https://idf.org/about-diabetes/diabetes-facts-figures/
+
 2 World Health Organization. (n.d.). Diabetes. Retrieved January 27, 2025, from https://www.who.int/news-room/fact-sheets/detail/diabetes#:~:text=Factors%20that%20contribute%20to%20developing,tests%20with%20a%20healthcare%20provider.
+
 3 Centers for Disease Control and Prevention. (2023). National Health and Nutrition Examination Survey, 2021–2023: Data brief 516. Retrieved January 27, 2025, from https://www.cdc.gov/nchs/products/databriefs/db516.htm#:~:text=The%20age%2Dadjusted%20prevalence%20of%20total%20diabetes%20increased%20from%209.7,in%20August%202021%E2%80%93August%202023
